@@ -19,11 +19,13 @@ namespace LoggerForm
         {
             if (cmb_logType.SelectedItem == null)
             {
-                MessageBox.Show("Hata: Lütfen bir logger tipi seçiniz.");
+                MessageBox.Show("Hata: LÃ¼tfen bir logger tipi seÃ§iniz.");
+                label_result.Text = "Hata: LÃ¼tfen bir logger tipi seÃ§iniz."
             }
-            else if (textBox_status.Text == "Lütfen durum giriniz" || textBox_status.Text.Trim().Length == 0)
+            else if (textBox_status.Text == "LÃ¼tfen durum giriniz" || textBox_status.Text.Trim().Length == 0)
             {
-                MessageBox.Show("Hata: Lütfen durum giriniz.");
+                MessageBox.Show("Hata: LÃ¼tfen durum giriniz.");
+                label_result.Text = "Hata: LÃ¼tfen durum giriniz.";
             }
             else
             {
