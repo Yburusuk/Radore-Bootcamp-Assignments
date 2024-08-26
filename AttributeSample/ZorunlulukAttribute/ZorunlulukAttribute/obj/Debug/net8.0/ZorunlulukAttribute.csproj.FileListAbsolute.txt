@@ -1,0 +1,11 @@
+C:\Yavuz\Lessons Archive\z_Radore_Full-Stack_Bootcamp\Ödevler\AttributeSample\ZorunlulukAttribute\ZorunlulukAttribute\bin\Debug\net8.0\ZorunlulukAttribute.deps.json
+C:\Yavuz\Lessons Archive\z_Radore_Full-Stack_Bootcamp\Ödevler\AttributeSample\ZorunlulukAttribute\ZorunlulukAttribute\bin\Debug\net8.0\ZorunlulukAttribute.dll
+C:\Yavuz\Lessons Archive\z_Radore_Full-Stack_Bootcamp\Ödevler\AttributeSample\ZorunlulukAttribute\ZorunlulukAttribute\bin\Debug\net8.0\ZorunlulukAttribute.pdb
+C:\Yavuz\Lessons Archive\z_Radore_Full-Stack_Bootcamp\Ödevler\AttributeSample\ZorunlulukAttribute\ZorunlulukAttribute\obj\Debug\net8.0\ZorunlulukAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yavuz\Lessons Archive\z_Radore_Full-Stack_Bootcamp\Ödevler\AttributeSample\ZorunlulukAttribute\ZorunlulukAttribute\obj\Debug\net8.0\ZorunlulukAttribute.AssemblyInfoInputs.cache
+C:\Yavuz\Lessons Archive\z_Radore_Full-Stack_Bootcamp\Ödevler\AttributeSample\ZorunlulukAttribute\ZorunlulukAttribute\obj\Debug\net8.0\ZorunlulukAttribute.AssemblyInfo.cs
+C:\Yavuz\Lessons Archive\z_Radore_Full-Stack_Bootcamp\Ödevler\AttributeSample\ZorunlulukAttribute\ZorunlulukAttribute\obj\Debug\net8.0\ZorunlulukAttribute.csproj.CoreCompileInputs.cache
+C:\Yavuz\Lessons Archive\z_Radore_Full-Stack_Bootcamp\Ödevler\AttributeSample\ZorunlulukAttribute\ZorunlulukAttribute\obj\Debug\net8.0\ZorunlulukAttribute.dll
+C:\Yavuz\Lessons Archive\z_Radore_Full-Stack_Bootcamp\Ödevler\AttributeSample\ZorunlulukAttribute\ZorunlulukAttribute\obj\Debug\net8.0\refint\ZorunlulukAttribute.dll
+C:\Yavuz\Lessons Archive\z_Radore_Full-Stack_Bootcamp\Ödevler\AttributeSample\ZorunlulukAttribute\ZorunlulukAttribute\obj\Debug\net8.0\ZorunlulukAttribute.pdb
+C:\Yavuz\Lessons Archive\z_Radore_Full-Stack_Bootcamp\Ödevler\AttributeSample\ZorunlulukAttribute\ZorunlulukAttribute\obj\Debug\net8.0\ref\ZorunlulukAttribute.dll
